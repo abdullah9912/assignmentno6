@@ -1,0 +1,15 @@
+1-
+Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define the data type of a data structure, and also the types of operations (functions) that can be applied to the data structure.
+
+In this way, the data structure becomes an object that includes both data and functions. In addition, programmers can create relationships between one object and another. For example, objects can inherit characteristics from other objects.
+2.Advantages of OOP: It provides a clear modular structure for programs which makes it good for defining abstract datatypes in which implementation details are hidden. Objects can also be reused within an across applications. The reuse of software also lowers the cost of development.
+3-A function is a piece of code that is called by name. It can be passed data to operate on (i.e. the parameters) and can optionally return data (the return value). All data that is passed to a function is explicitly passed. A method is a piece of code that is called by a name that is associated with an object.
+4-
+python-
+Python is an object oriented programming language. Unlike procedure oriented programming, where the main emphasis is on functions, object oriented programming stress on objects
+Object
+Object is simply a collection of data (variables) and methods (functions) that act on those data.
+Attribute-
+A class attribute is a Python variable that belongs to a class rather than a particular object. It is shared between all the objects of this class and it is defined outside the constructor function, __init__(self,...) , of the class
+
+
